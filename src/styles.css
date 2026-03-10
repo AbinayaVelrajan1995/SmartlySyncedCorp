@@ -273,13 +273,14 @@ section{
   align-items:center;
   justify-content:center;
   background:#edf5ff;
-  color:var(--primary);
+  color:#0f4c81;
   margin-bottom:18px;
 }
 
 .card-icon svg{
   width:30px;
   height:30px;
+  stroke-width:2;
 }
 
 .card h3{
