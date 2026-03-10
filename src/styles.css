@@ -108,10 +108,14 @@ img{
 
 .nav-cta{
   background:#fff;
-  color:var(--primary-dark);
+  color:#0a2f4d;
   padding:12px 18px;
   border-radius:999px;
   font-weight:700;
+}
+
+.nav-cta:hover{
+  color:#0a2f4d;
 }
 
 .hero{
