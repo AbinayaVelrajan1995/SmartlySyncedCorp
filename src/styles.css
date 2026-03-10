@@ -107,8 +107,8 @@ img{
 }
 
 .nav-cta{
-  background:#fff;
-  color:#0a2f4d;
+  background:#ffffff;
+  color:#0a2f4d;   /* Dark blue text */
   padding:12px 18px;
   border-radius:999px;
   font-weight:700;
